@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24943436991",
+    "project_id": "glam-book-7b109",
+    "storage_bucket": "glam-book-7b109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24943436991:android:32c4bfeeef60400c5b520a",
+        "android_client_info": {
+          "package_name": "com.example.glam_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFm6byGmZUpFna3Y4G9524x-Vl7C6KUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
